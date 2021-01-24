@@ -1,0 +1,9 @@
+emotion*happy,emotion*sad
+emotion*happy,emotion*sensitive_emotion
+energy*energized,energy*exhausted
+mental*calm,mental*stressed
+mental*focused,mental*distracted
+motivation*motivated,motivation*unmotivated
+motivation*productive,motivation*unproductive
+social*sociable,social*withdrawn_social
+social*supportive_social,social*conflict_social
